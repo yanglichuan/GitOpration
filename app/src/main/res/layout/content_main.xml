@@ -15,11 +15,15 @@
         android:layout_height="wrap_content" />
 
 
-    <TextView android:text="Hello World!" android:layout_width="wrap_content"
+    <TextView android:text="main!" android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
     <TextView android:text="Hello sdsfsdfsdf!" android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
+
+
+
 
 
 </RelativeLayout>
